@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">SmoothDraw</string>
-    <string name="hello_world">泥嚎！</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_clear">Clear</string>
 
 </resources>
